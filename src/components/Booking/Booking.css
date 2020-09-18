@@ -1,0 +1,24 @@
+.bok {
+    margin-left: 500px;
+    font-size: 18px;
+}
+.logo {
+    margin-left: 70px;
+}
+.full {
+    margin: 40px;
+}
+.booking {
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 40px;
+}
+.img img {
+    width: 250px;
+}
+.text {
+    margin-left: 20px;
+}
+.text p {
+    color: gray;
+    font-size: 14px;
+}

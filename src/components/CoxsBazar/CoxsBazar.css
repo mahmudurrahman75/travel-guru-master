@@ -1,0 +1,27 @@
+.destination{
+    border: 1px solid transparent;
+    border-radius: 10px;
+    height: 330px;
+    width: 350px;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+.destination button {
+    margin: 10px;
+    padding: 5px;
+    height: 40px;
+    width: 300px;
+    margin-top: 30px;
+    background-color: orange;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    color: block;
+}
+.date input {
+    height: 30px;
+    width: 150px;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    background-color: lightgray;
+}

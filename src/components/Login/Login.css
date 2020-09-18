@@ -1,0 +1,45 @@
+.account {
+    
+    border: 1px solid lightgray;
+    height: 380px;
+    width: 350px;
+    text-align: center;
+    margin-left: 460px;
+}
+.account input {
+    margin: 10px;
+    border:none;
+    border-bottom: 1px solid lightgray;
+    text-align: left;
+    width: 250px;
+}
+.account .btn {
+    margin: 10px;
+    padding: 5px;
+    height: 40px;
+    width: 300px;
+    margin-top: 8px;
+    background-color: orange;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    color: block;
+    text-align: center;
+}
+.other {
+    text-align: center;
+    margin-top: 8px; 
+}
+.other button {
+    margin: 6px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    color: block;
+    height: 35px;
+    width: 280px;
+}
+.other img {
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+    
+}
